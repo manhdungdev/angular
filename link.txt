@@ -1,0 +1,42 @@
+
+002 Starting-Project
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/01-starting-project.zip
+
+008 header.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/header.component.css
+
+008 styles.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/styles.css
+
+008 index.html
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/index.html
+
+008 task-management-logo.png
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/task-management-logo.png
+
+010 user.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/user.component.css
+
+010 app.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/app.component.css
+
+011 dummy-users.ts
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/dummy-users.ts
+
+032 type-vs-interface
+https://stackoverflow.com/a/52682220
+
+036 tasks.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/tasks.component.css
+
+036 task.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/task.component.css
+
+037 Dummy-Tasks
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/dummy-tasks.ts
+
+043 new-task.component.html
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/new-task.component.html
+
+043 new-task.component.css
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/new-task.component.css
