@@ -1,0 +1,15 @@
+<main>
+  <app-learning-resources />
+
+  <hr/>
+
+  <app-auth />
+
+<!--  <ng-template appAuth="admin">-->
+<!--    <p>This is the feature that admin can see</p>-->
+<!--  </ng-template>-->
+  <p *appAuth="'admin'"  class="protected-content admin">This is the feature that admin can see</p>
+  <p *appAuth="'user'" class="protected-content unauthenticated">This is the feature that user can see</p>
+  <p *appAuth="'guest'" class="protected-content authenticated">This is the feature that guest can see</p>
+
+</main>
